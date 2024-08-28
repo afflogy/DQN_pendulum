@@ -32,3 +32,9 @@ Pendulum 이산적이지 않다. 상태 공간은 3차원으로 구성되어 있
 (3) Agent 구현 : Q네트워크 학습의 과정인 sample생성, 타겟 모델 업데이트 등 
 (4) DQN 학습 알고리즘 : 리플레이 메모리 저장
 
+
+
+
+### 📁 Reference Website
+https://gymnasium.farama.org/environments/classic_control/pendulum/
+
